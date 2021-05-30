@@ -18,6 +18,8 @@ const folderName = './images';
 const resizeRate = 0.75;
 ```
 
+folderName の名前のディレクトリを作り、画像をほり込む
+
 app.js のディレクトリで
 ```
 node app
